@@ -13,8 +13,8 @@ Welcome to my personal website! My name is Zhuo Wang(王卓).I am currently an u
 Education
 ======
 * B.S. in Huazhong University of Science and Technology, 2020
-  * Cumulative Average Grade: 86.5
-  * GPA: 3.78/4
+  * Cumulative Average Grade: 86.8
+  * GPA: 3.79/4
 
 Skills
 ======
