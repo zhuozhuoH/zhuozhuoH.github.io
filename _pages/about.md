@@ -33,8 +33,8 @@ Skills
   * Web Crawler: Scrapy, Scrapyd, ScrapydWeb
 -->
 
-# Publications 
-
+Publications 
+======
 **(\* Equal Contribution)**
 
 <!--
