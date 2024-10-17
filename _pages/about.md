@@ -53,3 +53,5 @@ Before that, I obtained my Bachelor's Degree (under the supervision of **[Prof. 
     <br>Kai Ma\*, Jintao Huang\*, Ningyu He\* **<u>Zhuo Wang</u>**, and Haoyu Wang.
     <br>International Conference on Blockchain Research and Applications (BCRA), 2024 [[Paper](https://arxiv.org/abs/2312.08000)] <span style="color:#FF0000">Best Paper Award</span>
 
+# Teaching
+* CS1102 Introduction to Comp Studies, TA
