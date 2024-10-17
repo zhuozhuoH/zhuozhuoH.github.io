@@ -9,19 +9,3 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Huazhong University of Science and Technology, 2020-2024
-
-
-Skills
-======
-* Code Analysis and Mining Software Repositories  
-* Programming Languages
-  * C/C++,Python
-* Skills for
-  * Natural Language Processing: NLTK, Gensim
-  * Machine Learning: scikit-learn
-  * Data Analysis: Numpy
-  * Frontend: Qt, Vue
-  * Web Crawler: Scrapy, Scrapyd, ScrapydWeb
