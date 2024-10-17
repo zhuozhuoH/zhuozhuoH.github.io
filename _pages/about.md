@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal website! My name is Zhuo Wang(王卓). 
 
-I am a PhD student at Department of Computer Science, City University of Hong Kong, supervised by **[Prof. Wing-Kwong Chan](https://www.cs.cityu.edu.hk/~wkchan/)**.
+I am a PhD student at Department of Computer Science, City University of Hong Kong (Cityu), supervised by **[Prof. Wing-Kwong Chan](https://www.cs.cityu.edu.hk/~wkchan/)**.
 
 Before that, I obtained my Bachelor's Degree (under the supervision of **[Prof. Haoyu Wang](https://howiepku.github.io/)**)  in Cyber Science and Engineering (Qiming Experimental Class) at Huazhong University of Science and Technology.
 
@@ -54,6 +54,6 @@ Before that, I obtained my Bachelor's Degree (under the supervision of **[Prof. 
     <br>The International Conference on Blockchain Research and Applications (BCRA), 2024 [[Paper](https://arxiv.org/abs/2312.08000)] <span style="color:#FF0000">Best Paper Award</span>
 
 # Teaching
-* CS1102 Introduction to Comp Studies, TA
+* CS1102 Introduction to Comp Studies, Semester A, 2024/25, TA
 
 <a href="https://clustrmaps.com/site/1c1rj" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Oh5PEBTZ3sDsNg9UbjWv5Mol_pypIysUX-Sksi3OEz8&cl=ffffff"></a>
