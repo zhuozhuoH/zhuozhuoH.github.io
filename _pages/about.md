@@ -14,7 +14,7 @@ I am a PhD student at Department of Computer Science, City University of Hong Ko
 
 Before that, I obtained my Bachelor's Degree (under the supervision of **[Prof. Haoyu Wang](https://howiepku.github.io/)**)  in Cyber Science and Engineering (Qiming Experimental Class) at Huazhong University of Science and Technology.
 
-#Educations
+# Educations
 * Phd in City University of Hong Kong, 2024-now
 * B.S. in Huazhong University of Science and Technology, 2020-2024
 
@@ -32,7 +32,7 @@ Before that, I obtained my Bachelor's Degree (under the supervision of **[Prof. 
   * Web Crawler: Scrapy, Scrapyd, ScrapydWeb
 -->
 
-#Publications
+# Publications
 
 **(\* Equal Contribution)**
 
@@ -49,4 +49,7 @@ Before that, I obtained my Bachelor's Degree (under the supervision of **[Prof. 
     <br>Kai Ma\*, **<u>Zhuo Wang</u>\***, Yanjie Zhao, and Haoyu Wang.
     <br>The 15th Asia-Pacific Symposium on Internetware (Internetware), 2024 [[Paper](https://dl.acm.org/doi/10.1145/3671016.3671402)]
 
+* **<span style="color:#09a778">\[BCRA'24\]</span> SoK: On the Security of Non-Fungible Tokens**
+    <br>Kai Ma\*, Jintao Huang\*, Ningyu He\* **<u>Zhuo Wang</u>**, and Haoyu Wang.
+    <br>International Conference on Blockchain Research and Applications (BCRA), 2024 [[Paper](https://dl.acm.org/doi/10.1145/3671016.3671402)] <span class="highlight">Best Paper Award</span>
 
