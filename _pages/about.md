@@ -14,9 +14,9 @@ I am a PhD student at Department of Computer Science, City University of Hong Ko
 
 Before that, I obtained my Bachelor's Degree (under the supervision of **[Prof. Haoyu Wang](https://howiepku.github.io/)**)  in Cyber Science and Engineering (Qiming Experimental Class) at Huazhong University of Science and Technology.
 
-*Educations
-** Phd in City University of Hong Kong, 2024-now
-** B.S. in Huazhong University of Science and Technology, 2020-2024
+#Educations
+* Phd in City University of Hong Kong, 2024-now
+* B.S. in Huazhong University of Science and Technology, 2020-2024
 
 <!--
 *Skills
@@ -32,7 +32,7 @@ Before that, I obtained my Bachelor's Degree (under the supervision of **[Prof. 
   * Web Crawler: Scrapy, Scrapyd, ScrapydWeb
 -->
 
-*Publications
+#Publications
 
 **(\* Equal Contribution)**
 
