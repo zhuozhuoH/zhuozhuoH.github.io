@@ -19,6 +19,7 @@ Educations
 * Phd in City University of Hong Kong, 2024-now
 * B.S. in Huazhong University of Science and Technology, 2020-2024
 
+<!--
 Skills
 ======
 * Code Analysis and Mining Software Repositories  
@@ -30,6 +31,6 @@ Skills
   * Data Analysis: Numpy
   * Frontend: Qt, Vue
   * Web Crawler: Scrapy, Scrapyd, ScrapydWeb
-
+-->
 
 
