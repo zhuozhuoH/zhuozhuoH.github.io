@@ -61,4 +61,4 @@ Before that, I obtained my Bachelor's Degree (under the supervision of **[Prof. 
 <a href="https://clustrmaps.com/site/1c1rj" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Oh5PEBTZ3sDsNg9UbjWv5Mol_pypIysUX-Sksi3OEz8&cl=ffffff"></a>
 -->
 
-<a href='https://clustrmaps.com/site/1c1rj'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=70&t=n&d=Oh5PEBTZ3sDsNg9UbjWv5Mol_pypIysUX-Sksi3OEz8&co=ffffff'/></a>
+<a href='https://clustrmaps.com/site/1c1rj'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=1&t=n&d=Oh5PEBTZ3sDsNg9UbjWv5Mol_pypIysUX-Sksi3OEz8&co=ffffff'/></a>
