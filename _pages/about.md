@@ -54,8 +54,8 @@ Before that, I obtained my Bachelor's Degree (under the supervision of **[Prof. 
     <br>The International Conference on Blockchain Research and Applications (BCRA), 2024 [[Paper](https://arxiv.org/abs/2312.08000)] <span style="color:#FF0000">Best Paper Award</span>
 
 # Teaching
-* CS1102 Introduction to Comp Studies, Semester A, 2024/25, TA
-* CS2311 Computer Programming, Semester B, 2024/25, TA
+* CS1102 Introduction to Comp Studies, Semester A, 2024/25,TA
+* CS2311 Computer Programming, Semester B, 2024/25,TA
   
 <a href="https://clustrmaps.com/site/1c1rj" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Oh5PEBTZ3sDsNg9UbjWv5Mol_pypIysUX-Sksi3OEz8&cl=ffffff"></a>
 
