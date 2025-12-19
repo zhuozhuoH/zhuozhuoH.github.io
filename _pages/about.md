@@ -51,7 +51,7 @@ Before that, I obtained my Bachelor's Degree (under the supervision of **[Prof. 
 
 * **<span style="color:#0000FF">\[BCRA'24\]</span> SoK: On the Security of Non-Fungible Tokens**
     <br>Kai Ma\*, Jintao Huang\*, Ningyu He\*, **<u>Zhuo Wang</u>**, and Haoyu Wang.
-    <br>The International Conference on Blockchain Research and Applications (BCRA), 2024 [[Paper](https://arxiv.org/abs/2312.08000)] <span style="color:#FF0000">Best Paper Award</span>
+    <br>The International Conference on Blockchain Research and Applications (BCRA), 2024 [[Paper](https://www.sciencedirect.com/science/article/pii/S2096720924000812)] <span style="color:#FF0000">Best Paper Award</span>
 
 ## <span style="color:grey">Journal</span>
 
