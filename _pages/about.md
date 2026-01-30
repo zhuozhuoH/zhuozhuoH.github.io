@@ -54,6 +54,9 @@ Before that, I obtained my Bachelor's Degree (under the supervision of **[Prof. 
     <br>The International Conference on Blockchain Research and Applications (BCRA), 2024 [[Paper](https://www.sciencedirect.com/science/article/pii/S2096720924000812)] <span style="color:#FF0000">Best Paper Award</span>
 
 ## <span style="color:grey">Journal</span>
+* **<span style="color:#0000FF">\[TR'26\]</span> HiCert: Toward Patch Robustness Certification and Detection for Deep Learning Systems Beyond Consistent Samples**
+    <br>Qilin Zhou, Zhengyuan Wei, Haipeng Wang, **<u>Zhuo Wang</u>**, and Wing-Kwong Chan.
+    <br>IEEE Transactions on Reliability, 2026 [[Paper](https://ieeexplore.ieee.org/abstract/document/11342369)]
 
 
 # Teaching
